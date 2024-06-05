@@ -27,8 +27,13 @@ python app.py
 Enter a Tweet:
 Type or paste a tweet into the text area.
 Click the "Analyze Sentiment" button to see the predicted sentiment.
+
+
+
 Example:
 ![Screenshot 2024-06-05 142839](https://github.com/Pam219/tweet-sentiment-analysis/assets/95472325/e59e908e-6add-4c78-85df-90fb1912cce4)
+
+
 
 Future Improvements:
 Enhance the model's accuracy by experimenting with different algorithms and preprocessing techniques.
