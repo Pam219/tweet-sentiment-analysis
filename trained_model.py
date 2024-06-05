@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import confusion_matrix, classification_report
 
 # Load the dataset
-df = pd.read_csv('C:\\Users\\MEHER\\Projects\\Tweets\\twitter_training.csv')
+df = pd.read_csv('twitter_training.csv')
 
 df.columns=['id','entity','sentiment','tweet']
 df['tweet'] = df['tweet'].astype(str)
